@@ -4,7 +4,7 @@ Calculadora criada com HTML, CSS e Javascript
 
 ### Preview 👀
 
-(https://m4ri0jumpj0g0.netlify.app/)
+(https://calcmikafi.netlify.app/)
 
 
 
