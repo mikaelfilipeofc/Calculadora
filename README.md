@@ -3,7 +3,7 @@
 Calculadora criada com HTML, CSS e Javascript
 
 
-
+### Preview 👀
 
 
 https://github.com/mikaelfilipeofc/Calculadora/assets/165120574/b2b5a4e0-2b1f-49bc-8b33-b1326e8f678f
