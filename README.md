@@ -2,10 +2,6 @@
 
 Calculadora criada com HTML, CSS e Javascript
 
-### Preview 👀
-
-(https://calcmikafi.netlify.app/)
-
 
 
 
